@@ -22,6 +22,15 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 
 ### 🗄️ Databases & Query Languages
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Tasbiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasbihaanwaradil&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbihaanwaradil&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tasbihaanwaradil&theme=radical&border_radius=5)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
