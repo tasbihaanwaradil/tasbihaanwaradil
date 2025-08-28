@@ -1,3 +1,6 @@
+<img width="2000" height="600" alt="Black Geometric Marketing Expert LinkedIn Banner" src="https://github.com/user-attachments/assets/6b7c5310-eab0-4e9d-b0c2-6d90eab0b23b" />
+
+
 Hi 👋, I’m **Tasbiha Anwar Adil**  
 🎓 Third-year **Computer Science student** | 📊 Aspiring **Data Analyst**
 
