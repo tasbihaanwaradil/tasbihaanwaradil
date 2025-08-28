@@ -1,12 +1,13 @@
 <img width="2000" height="600" alt="Profile Banner" src="https://github.com/user-attachments/assets/82d3985c-a2cb-4cbb-bfba-1cb3a4f0494b" />
 
-
 Hi 👋, I’m **Tasbiha Anwar Adil**  
 🎓 Third-year **Computer Science student** | 📊 Aspiring **Data Analyst**
 
 I’m currently learning and working on **Data Analytics projects** to strengthen my skills in SQL, Power BI, Python, and Excel. Alongside analytics, I’m also practicing **Data Structures & Algorithms (DSA)** to improve my problem-solving and logical thinking.  
 
 I’m passionate about turning raw data into **meaningful insights** and building interactive dashboards that help in better decision-making. 🚀
+
+---
 
 ## 🔧 Skills & Tools
 
@@ -35,11 +36,15 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-## 💻 Coding Profiles
+---
 
-## ​ Coding Profiles
+## 💻 Coding Profiles
+Here are some of the platforms where I practice problem-solving and competitive programming:
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/tasbihaan3v0f/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06&style=for-the-badge)](https://leetcode.com/u/tasbihaanwaradil/)
+
+---
 
 ## 📈 GitHub Stats
 
@@ -48,4 +53,3 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbihaanwaradil&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tasbihaanwaradil&theme=radical&border_radius=5)
-
