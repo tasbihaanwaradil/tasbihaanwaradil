@@ -35,6 +35,12 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+## 💻 Coding Profiles
+
+## ​ Coding Profiles
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/tasbihaan3v0f/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06&style=for-the-badge)](https://leetcode.com/u/tasbihaanwaradil/)
+
 ## 📈 GitHub Stats
 
 ![Tasbiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasbihaanwaradil&show_icons=true&theme=radical)
