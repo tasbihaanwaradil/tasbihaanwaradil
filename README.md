@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @tasbihaanwaradil
-- 👀 I’m interested in I am excited to explore the latest advancements in the field of computer science and eager to expand my knowledge in technology.
-- As a student, I am always seeking opportunities to learn and grow, and I am confident that my passion for learning will drive me to achieve great things in the future.
-- 🌱 I’m currently learning Data Analytics And Business Intelligence.
-- 📫 How to reach me:
-- LinkedIn : www.linkedin.com/in/tasbiha-anwar-adil
+Hi 👋, I’m **Tasbiha Anwar Adil**  
+🎓 Third-year **Computer Science student** | 📊 Aspiring **Data Analyst**
 
+I’m currently learning and working on **Data Analytics projects** to strengthen my skills in SQL, Power BI, Python, and Excel. Alongside analytics, I’m also practicing **Data Structures & Algorithms (DSA)** to improve my problem-solving and logical thinking.  
 
-
-<!---
-tasbihaanwaradil/tasbihaanwaradil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about turning raw data into **meaningful insights** and building interactive dashboards that help in better decision-making. 🚀
