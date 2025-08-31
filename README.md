@@ -44,38 +44,15 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 
 Organized by categories to keep things clean and engaging.  
 
-### 📊 **Business & Platform Analytics**
-- 🔹 [**LioCinema & Jotstar Merger Analysis**](https://github.com/username/project-link)  
-  *Analyzed user behavior & revenue trends (Jan–Nov 2024) to assess post-merger growth.*  
-  **Tools:** SQL · Power BI · Python  
-  ![Dashboard Preview](https://github.com/username/project-link/blob/main/visuals/dashboard.png)  
+## 📊 Data Analytics Projects (Python)
 
----
+- 🔹 **[Zomato Data Analysis Using Python](https://github.com/YourUsername/Zomato-Data-Analysis)**
+  
+  Analyzed restaurant trends and customer preferences using **Pandas, NumPy, Matplotlib, and Seaborn**.  
+  **Key insights**:  Online vs Offline orders • Popular restaurant types • Preferred dining price range  
 
-### 📦 **Supply Chain & Inventory Analytics**
-- 🔹 [**Inventory Management Analysis**](https://github.com/username/project-link)  
-  *Evaluated stock levels, supplier performance, and overstock risks for AtliQMart.*  
-  **Tools:** Excel · Power BI  
-  ![Inventory Dashboard](https://github.com/username/project-link/blob/main/visuals/inventory.png)  
-
----
-
-### 👥 **Customer & Market Analytics**
-- 🔹 [**Customer Segmentation with Python**](https://github.com/username/project-link)  
-  *Clustered customers into high/low-value groups to support targeted marketing campaigns.*  
-  **Tools:** Python (NumPy, Pandas, Matplotlib, Seaborn)  
-
-- 🔹 [**OTT Platform Analysis**](https://github.com/username/project-link)  
-  *Explored viewer preferences & subscription trends across streaming data.*  
-  **Tools:** SQL · Tableau  
-
----
-
-### 🛠 **Learning & Mini Projects**
-- 🔹 [**SQL Query Practice**](https://github.com/username/sql-practice) – Real-world business queries.  
-- 🔹 [**Excel Dashboards**](https://github.com/username/excel-dashboards) – Sales & HR insights.  
-- 🔹 [**Python EDA Projects**](https://github.com/username/python-eda) – Exploratory analysis on open datasets.  
-
+  🔗 [Read my LinkedIn Post](https://www.linkedin.com/posts/tasbiha-anwar-adil_zomato-data-analysis-using-python-activity-7362515385423671297-Z1Qv)
+  
 ---
 
 ## 💻 Coding Profiles  
