@@ -45,7 +45,7 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 
 ### 📊 Data Analytics Projects (Python)
 
-- 🔹 **[Zomato Data Analysis Using Python]([https://github.com/YourUsername/Zomato-Data-Analysis](https://github.com/tasbihaanwaradil/Zomato-Data-Analysis-Using-Python))**
+- **[Zomato Data Analysis Using Python](https://github.com/tasbihaanwaradil/Zomato-Data-Analysis-Using-Python)**
   
   Analyzed restaurant trends and customer preferences using **Pandas, NumPy, Matplotlib, and Seaborn**.  
   **Key Insights**: Online vs Offline orders • Popular restaurant types • Preferred dining price range  
