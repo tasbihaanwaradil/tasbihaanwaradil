@@ -1,7 +1,8 @@
 <img width="2000" height="600" alt="Profile Banner" src="https://github.com/user-attachments/assets/82d3985c-a2cb-4cbb-bfba-1cb3a4f0494b" />
 
-# Hi 👋, I’m **Tasbiha Anwar Adil**  
-🎓 Third-year **Computer Science Student** | 📊 Aspiring **Data Analyst**
+# Hi 👋, I’m Tasbiha Anwar Adil
+
+🎓 Final-year **Computer Science Student** | 📊 Aspiring **Data Analyst** 
 
 I’m currently building **Data Analytics projects** to sharpen my skills in SQL, Power BI, Python, and Excel.  
 Alongside analytics, I’m also practicing **Data Structures & Algorithms (DSA)** to boost my problem-solving and logical thinking.  
