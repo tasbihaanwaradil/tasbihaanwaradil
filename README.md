@@ -64,6 +64,8 @@ I’m passionate about turning raw data into **meaningful insights** and buildin
 
 ## 📈 GitHub Stats  
 
-![Tasbiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasbihaanwaradil&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbihaanwaradil&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=tasbihaanwaradil&theme=radical&border_radius=5)  
+## 📈 GitHub Stats  
+
+![Tasbiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasbihaanwaradil&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasbihaanwaradil&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=tasbihaanwaradil&theme=radical&border_radius=5)
