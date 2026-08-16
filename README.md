@@ -54,4 +54,4 @@ I believe the best way to master software engineering is by **building real appl
 
 ### 📫 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/tasbiha-anwar-adil) • [Email](tasbihaanwaradil@gmail.com)
