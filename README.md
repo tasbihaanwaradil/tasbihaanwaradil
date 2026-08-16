@@ -1,66 +1,57 @@
-<img width="2000" height="600" alt="Profile Banner" src="https://github.com/user-attachments/assets/82d3985c-a2cb-4cbb-bfba-1cb3a4f0494b" />
+# Hi, I'm Tasbiha Anwar Adil 👋
 
-# Hi 👋, I’m Tasbiha Anwar Adil
+### Full-Stack Software Engineer | MERN Stack Developer | AI Enthusiast
 
-🎓 Final-year **Computer Science Student** | 📊 Aspiring **Data Analyst** 
+I'm a **Full-Stack Software Engineer specializing in the MERN Stack**, passionate about building scalable, user-focused web applications and turning ideas into complete products.
 
-I’m currently building **Data Analytics projects** to sharpen my skills in SQL, Power BI, Python, and Excel.  
-Alongside analytics, I’m also practicing **Data Structures & Algorithms (DSA)** to boost my problem-solving and logical thinking.  
+I enjoy working across the entire development lifecycle — from designing the frontend and building REST APIs to database integration, authentication, deployment, and continuous improvement.
 
-I’m passionate about turning raw data into **meaningful insights** and building interactive dashboards that empower decision-making. 🚀  
+### 🚀 What I Do
 
----
+- 💻 Build full-stack applications using **MongoDB, Express.js, React, and Node.js**
+- ⚙️ Design and develop **RESTful APIs & backend systems**
+- 🗄️ Work with **MongoDB & Mongoose** for database-driven applications
+- 🎨 Build responsive and interactive **React applications**
+- 🔐 Implement authentication and secure application workflows
+- 🤖 Integrate **Generative AI & Agentic AI** into applications
+- 🧩 Focus on writing clean, maintainable, and scalable code
 
-## 🔧 Skills & Tools
+### 🛠️ Tech Stack
 
-### 📊 Analytics & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76b900?style=for-the-badge&logo=python&logoColor=white)
+**Frontend:**  
+HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Backend:**  
+Node.js • Express.js • MongoDB • Mongoose • REST APIs
 
-### 🗄️ Databases & Query Languages
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI:**  
+Generative AI • LangChain • LangGraph • LLM Applications
 
-### ⚙️ Data Processing & ETL
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+**Tools:**  
+Git • GitHub • VS Code • Postman • Vercel
 
-### 📚 Currently Exploring
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=algorithm&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🚧 Currently Focused On
 
----
+I'm currently focused on **mastering the MERN Stack and growing as a Software Engineer** by building real-world, end-to-end applications.
 
-## 🚀 Featured Projects  
+I'm also exploring how **Generative AI and Agentic AI** can be integrated with full-stack applications to create smarter and more useful products.
 
-### 📊 Data Analytics Projects (Python)
+### 🌟 Featured Projects
 
-- **[Zomato Data Analysis Using Python](https://github.com/tasbihaanwaradil/Zomato-Data-Analysis-Using-Python)**
-  
-  Analyzed restaurant trends and customer preferences using **Pandas, NumPy, Matplotlib, and Seaborn**.  
-  **Key Insights**: Online vs Offline orders • Popular restaurant types • Preferred dining price range  
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 **Aevion.AI** | Agentic AI assistant for teachers & students | MERN + AI |
+| 💬 **PulseChat** | Real-time messaging application | MERN + Socket.IO |
+| 🍔 **ByteBite Pro** | Interactive food ordering application | HTML + CSS + JS |
 
-  🔗 [View my LinkedIn Post](https://www.linkedin.com/posts/tasbiha-anwar-adil_zomato-data-analysis-using-python-activity-7362515385423671297-Z1Qv)
+### 💡 My Approach
+
+> **Learn → Build → Debug → Improve → Ship**
+
+I believe the best way to master software engineering is by **building real applications, solving real problems, and continuously improving the way I write software.**
 
 ---
 
-## 💻 Coding Profiles  
+### 📫 Let's Connect
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/tasbihaan3v0f/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=%23d16c06&style=for-the-badge)](https://leetcode.com/u/tasbihaanwaradil/)
-
----
-
-## 📈 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=tasbihaanwaradil&theme=radical&border_radius=5)
+[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](YOUR_EMAIL)
